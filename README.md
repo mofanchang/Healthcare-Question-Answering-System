@@ -4,7 +4,7 @@ Healthcare Information Retrieval-Augmented Generation System
 # 醫療問答 RAG 系統
 
 基於 Qwen 模型的醫療領域檢索增強生成（RAG）系統，專為繁體中文醫療問答設計。
-![Medical RAG Architecture](images/MedicalRag.png)
+![Medical RAG Architecture](./MedicalRag.png)
 
 ## 系統架構
 
